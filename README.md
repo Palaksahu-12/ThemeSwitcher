@@ -1,20 +1,13 @@
-<<<<<<< HEAD
-# React + Vite
+# Theme Switcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Theme Switcher project built using React (or plain HTML/CSS/JS depending on your implementation). It allows users to toggle between light and dark themes with a single click.
+I created this project while learning the basics of toggle functionality and how to dynamically change styles based on user interaction. It demonstrates a fundamental approach to enhancing user experience by providing theme customization.
 
-Currently, two official plugins are available:
+Features:-
+1.Switch between Light Mode and Dark Mode.
+2.Smooth toggle animation for theme change.
+3.Simple, minimalistic design for easy understanding and learning.
+<img width="1044" height="903" alt="image" src="https://github.com/user-attachments/assets/93956ef3-8cc5-47f0-844c-c66b10d031ca" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1022" height="905" alt="image" src="https://github.com/user-attachments/assets/0e26a483-6806-4738-ab71-94cc7a729b27" />
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ThemeSwitcher
->>>>>>> 2b0424840b4cf343b335d9537e38b64ad4e72aa2
